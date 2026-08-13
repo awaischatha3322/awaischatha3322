@@ -1,6 +1,6 @@
-### Hi, I'm Awais 👋
+## Hi, I'm Awais 👋
 
-**Software Engineering Graduate | Full-Stack Web Developer (MERN, Next.js) | AI & Machine Learning Enthusiast**
+### Software Engineering Graduate | Full-Stack Web Developer (MERN, Next.js) | AI & Machine Learning Enthusiast
 
 📍 Gujrat, Pakistan 🇵🇰
 
@@ -12,7 +12,7 @@ I am currently seeking new opportunities where I can bring my full-stack develop
 
 ---
 
-### 🚀 Engineering Philosophy
+## 🚀 Engineering Philosophy
 
 For me, software engineering is more than writing code.
 
@@ -22,11 +22,11 @@ I enjoy solving challenging problems, learning new technologies, collaborating w
 
 ---
 
-### 🧠 Computer Science Foundation
+## 🧠 Computer Science Foundation
 
 Throughout my academic journey, I developed a strong understanding of core computer science concepts that support modern software development.
 
-**Core Knowledge**
+### Core Knowledge
 * Programming Fundamentals (PF)
 * Object-Oriented Programming (OOP)
 * Data Structures & Algorithms (DSA)
@@ -41,11 +41,11 @@ Throughout my academic journey, I developed a strong understanding of core compu
 
 ---
 
-### 🏗 Software Engineering Knowledge
+## 🏗 Software Engineering Knowledge
 
 My academic background provided practical knowledge of the complete Software Development Life Cycle (SDLC) and modern software engineering methodologies.
 
-**Software Engineering**
+### Software Engineering
 
 * Software Development Life Cycle (SDLC)
 * Software Requirements Engineering
@@ -63,7 +63,7 @@ My academic background provided practical knowledge of the complete Software Dev
 
 ---
 
-### 🤝 Collaboration & Teamwork
+## 🤝 Collaboration & Teamwork
 
 I enjoy working in collaborative environments where ideas are shared, challenges are solved together, and continuous improvement is encouraged.
 
@@ -85,34 +85,34 @@ I believe successful software is created through collaboration, communication, a
 
 ---
 
-### 💻 Technical Skills
+## 💻 Technical Skills
 
-**Programming Languages**
+### Programming Languages
 * C++
 * Python
 * JavaScript
 * TypeScript
 * SQL
 
-**Frontend Development**
+### Frontend Development
 * React
 * Next.js
 * HTML5
 * CSS3
 * Tailwind CSS
 
-**Backend Development**
+### Backend Development
 * Node.js
 * Express.js
 * RESTful APIs
 
-**Database Technologies**
+### Database Technologies
 * MongoDB
 * MySQL
 * Database Design
 * Relational Database Concepts
 
-**Software Development**
+### Software Development
 * Clean Code Principles
 * Object-Oriented Design
 * Basic MVC Architecture Concepts
@@ -121,7 +121,7 @@ I believe successful software is created through collaboration, communication, a
 * CRUD Applications
 * Responsive UI Development
 
-**Development Tools**
+### Development Tools
 * Git
 * GitHub
 * Visual Studio 2022
@@ -132,9 +132,9 @@ I believe successful software is created through collaboration, communication, a
 
 ---
 
-### 📂 Featured Projects
+## 📂 Featured Projects
 
-#### 🚀 Rentza
+### 🚀 Rentza
 *Collaborative Final-Year Project*
 
 A modern full-stack rental platform built using Next.js, Node.js, Express.js, and MongoDB.
@@ -156,7 +156,7 @@ A modern full-stack rental platform built using Next.js, Node.js, Express.js, an
 
   ---
 
-### 🌱 Currently Learning
+## 🌱 Currently Learning
 
 I believe continuous learning is one of the most important qualities of a software engineer.
 
@@ -169,7 +169,7 @@ Currently focusing on:
 
 ---
 
-### 🌟 Core Values
+## 🌟 Core Values
 
 * Continuous Learning
 * Curiosity
@@ -183,7 +183,7 @@ Currently focusing on:
 
 ---
 
-### 📫 Let's Connect
+## 📫 Let's Connect
 
 I'm always happy to connect with software engineers, recruiters, and technology professionals.
 
@@ -191,6 +191,8 @@ I'm always happy to connect with software engineers, recruiters, and technology 
 
 Feel free to connect if you'd like to discuss software development, collaborate on projects, or explore software engineering opportunities.
 
-*"Great software is built through curiosity, collaboration, and continuous improvement."*
+---
+
+### "Great software is built through curiosity, collaboration, and continuous improvement."
 
 Thank you for visiting my profile! ⭐
