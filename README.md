@@ -1,4 +1,4 @@
-## Hi, I'm Awais 👋
+# Hi, I'm Awais 👋
 
 ### Software Engineering Graduate | Full-Stack Web Developer (MERN, Next.js) | AI & Machine Learning Enthusiast
 
@@ -12,7 +12,7 @@ I am currently seeking new opportunities where I can bring my full-stack develop
 
 ---
 
-## 🚀 Engineering Philosophy
+# 🚀 Engineering Philosophy
 
 For me, software engineering is more than writing code.
 
@@ -22,7 +22,7 @@ I enjoy solving challenging problems, learning new technologies, collaborating w
 
 ---
 
-## 🧠 Computer Science Foundation
+# 🧠 Computer Science Foundation
 
 Throughout my academic journey, I developed a strong understanding of core computer science concepts that support modern software development.
 
@@ -41,7 +41,7 @@ Throughout my academic journey, I developed a strong understanding of core compu
 
 ---
 
-## 🏗 Software Engineering Knowledge
+# 🏗 Software Engineering Knowledge
 
 My academic background provided practical knowledge of the complete Software Development Life Cycle (SDLC) and modern software engineering methodologies.
 
@@ -63,7 +63,7 @@ My academic background provided practical knowledge of the complete Software Dev
 
 ---
 
-## 🤝 Collaboration & Teamwork
+# 🤝 Collaboration & Teamwork
 
 I enjoy working in collaborative environments where ideas are shared, challenges are solved together, and continuous improvement is encouraged.
 
@@ -85,34 +85,42 @@ I believe successful software is created through collaboration, communication, a
 
 ---
 
-## 💻 Technical Skills
+# 💻 Technical Skills
 
-### Programming Languages
+## Programming Languages
 * C++
 * Python
 * JavaScript
 * TypeScript
 * SQL
 
-### Frontend Development
+  ---
+
+## Frontend Development
 * React
 * Next.js
 * HTML5
 * CSS3
 * Tailwind CSS
 
-### Backend Development
+  ---
+
+## Backend Development
 * Node.js
 * Express.js
 * RESTful APIs
 
-### Database Technologies
+---
+
+## Database Technologies
 * MongoDB
 * MySQL
 * Database Design
 * Relational Database Concepts
 
-### Software Development
+---
+
+## Software Development
 * Clean Code Principles
 * Object-Oriented Design
 * Basic MVC Architecture Concepts
@@ -121,7 +129,9 @@ I believe successful software is created through collaboration, communication, a
 * CRUD Applications
 * Responsive UI Development
 
-### Development Tools
+---
+
+## Development Tools
 * Git
 * GitHub
 * Visual Studio 2022
@@ -132,14 +142,14 @@ I believe successful software is created through collaboration, communication, a
 
 ---
 
-## 📂 Featured Projects
+# 📂 Featured Projects
 
-### 🚀 Rentza
+## 🚀 Rentza
 *Collaborative Final-Year Project*
 
 A modern full-stack rental platform built using Next.js, Node.js, Express.js, and MongoDB.
 
-**Core Features**
+### Core Features
 * User Interface(UI)
 * User Registration and Authentication
 * Item Listing and management 
@@ -156,7 +166,7 @@ A modern full-stack rental platform built using Next.js, Node.js, Express.js, an
 
   ---
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
 I believe continuous learning is one of the most important qualities of a software engineer.
 
@@ -169,7 +179,7 @@ Currently focusing on:
 
 ---
 
-## 🌟 Core Values
+# 🌟 Core Values
 
 * Continuous Learning
 * Curiosity
@@ -183,7 +193,7 @@ Currently focusing on:
 
 ---
 
-## 📫 Let's Connect
+# 📫 Let's Connect
 
 I'm always happy to connect with software engineers, recruiters, and technology professionals.
 
