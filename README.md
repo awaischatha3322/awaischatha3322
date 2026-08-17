@@ -187,7 +187,7 @@ Student and employee management application developed using ASP.NET Core MVC, En
 * View Attendance Records
 * Pay Monthly Salary
 * View Staff Salary Records
-
+  
     ---
   
 # 🌱 Currently Learning
