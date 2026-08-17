@@ -176,7 +176,7 @@ Student and employee management application developed using ASP.NET Core MVC, En
 #### Student Management
 * Register New Students
 * View All Students
-* Promote Students to Next Class
+* Promote Students To Next Class
 * View Promotion Records
 * View Student Fee Records
 
