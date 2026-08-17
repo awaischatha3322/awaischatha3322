@@ -166,6 +166,30 @@ A modern full-stack rental platform built using Next.js, Node.js, Express.js, an
 
   ---
 
+## 🏫 School Management System
+*Semester Project*
+
+Student and employee management application developed using ASP.NET Core MVC, Entity Framework Core, and SQL Server.
+
+### Core Features
+
+#### Student Management
+* Register New Students
+* View All Students
+* Promote Students to Next Class
+* View Promotion Records
+* View Student Fee Records
+
+#### Staff Management
+* Register New Staff Members
+* View All Staff
+* Mark Daily Attendance
+* View Attendance Records
+* Pay Monthly Salary
+* View Staff Salary Records
+
+    ---
+  
 # 🌱 Currently Learning
 
 I believe continuous learning is one of the most important qualities of a software engineer.
